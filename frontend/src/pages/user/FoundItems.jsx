@@ -1,0 +1,1 @@
+export { FoundItems as default } from './ItemsPages'
