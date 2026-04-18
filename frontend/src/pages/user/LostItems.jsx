@@ -1,0 +1,1 @@
+export { LostItems as default } from './ItemsPages'
